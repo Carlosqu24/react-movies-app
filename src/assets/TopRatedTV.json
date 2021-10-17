@@ -1,0 +1,42 @@
+[
+      {
+            "id": 130392,
+            "title": "The D'Amelio Show",
+            "imgUrl": "https://image.tmdb.org/t/p/w500/z0iCS5Znx7TeRwlYSd4c01Z0lFx.jpg",
+            "overview": "From relative obscurity and a seemingly normal life, to overnight success and thrust into the Hollywood limelight overnight, the D’Amelios are faced with new challenges and opportunities they could not have imagined.",
+            "vote_average": 9.5,
+            "adult": false
+      },
+      {
+            "id": 100,
+            "title": "I Am Not an Animal",
+            "imgUrl": "https://image.tmdb.org/t/p/w500/qG59J1Q7rpBc1dvku4azbzcqo8h.jpg",
+            "overview": "I Am Not An Animal is an animated comedy series about the only six talking animals in the world, whose cosseted existence in a vivisection unit is turned upside down when they are liberated by animal rights activists.",
+            "vote_average": 9.2,
+            "adult": false
+      },
+      {
+            "id": 77696,
+            "title": "Run BTS!",
+            "imgUrl": "https://image.tmdb.org/t/p/w500/xxv8Ibs8Anni6qrWkAf60rDsPCu.jpg",
+            "overview": "Run BTS! is a South Korean show by the boy band BTS. The show is all about BTS doing activities, challenges and lots more.",
+            "vote_average": 9.2,
+            "adult": false
+      },
+      {
+            "id": 125910,
+            "title": "Young Royals",
+            "imgUrl": "https://image.tmdb.org/t/p/w500/6CHznbr0BF78ar16zJwTVRYLLOX.jpg",
+            "overview": "Prince Wilhelm adjusts to life at his prestigious new boarding school, Hillerska, but following his heart proves more challenging than anticipated.",
+            "vote_average": 9.1,
+            "adult": false
+      },
+      {
+            "id": 107113,
+            "title": "Only Murders in the Building",
+            "imgUrl": "https://image.tmdb.org/t/p/w500/lxCmHIN7TTO0sxeAmgDYxqzq8Ob.jpg",
+            "overview": "Three strangers who share an obsession with true crime suddenly find themselves wrapped up in one.",
+            "vote_average": 9,
+            "adult": false
+      }
+]

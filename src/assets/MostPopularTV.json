@@ -1,0 +1,43 @@
+[
+      {
+            "id": 81356,
+            "title": "Sex Education",
+            "imgUrl": "https://image.tmdb.org/t/p/w500/8j12tohv1NBZNmpU93f47sAKBbw.jpg",
+            "overview": "Inexperienced Otis channels his sex therapist mom when he teams up with rebellious Maeve to set up an underground sex therapy clinic at school.",
+            "vote_average": 8.4,
+            "adult": false
+      },
+      {
+            "id": 91363,
+            "title": "What If...?",
+            "imgUrl": "https://image.tmdb.org/t/p/w500/lztz5XBMG1x6Y5ubz7CxfPFsAcW.jpg",
+            "overview": "Taking inspiration from the comic books of the same name, each episode explores a pivotal moment from the Marvel Cinematic Universe and turns it on its head, leading the audience into uncharted territory.",
+            "vote_average": 8.4,
+            "adult": false
+      },
+      {
+            "id": 90239,
+            "title": "El Juego de las Llaves",
+            "imgUrl": "https://image.tmdb.org/t/p/w500/2cMy9qphoOLJjYJJJQBBul0d94q.jpg",
+            "overview": "A casual encounter between Adriana and Sergio, two former high school friends, triggers the beginning of the game of the keys where 4 couples generate new sexual and emotional combinations in a dangerous and lustful game.",
+            "vote_average": 7.4,
+            "adult": false
+      },
+      {
+            "id": 124124,
+            "title": "Café con aroma de mujer",
+            "imgUrl": "https://image.tmdb.org/t/p/w500/ztyJqTdS7RApGgl6ZXmFdGZX3g0.jpg",
+            "overview": "",
+            "vote_average": 7.2,
+            "adult": false
+      },
+      {
+            "id": 63174,
+            "title": "Lucifer",
+            "imgUrl": "https://image.tmdb.org/t/p/w500/ekZobS8isE6mA53RAiGDG93hBxL.jpg",
+            "overview": "Bored and unhappy as the Lord of Hell, Lucifer Morningstar abandoned his throne and retired to Los Angeles, where he has teamed up with LAPD detective Chloe Decker to take down criminals. But the longer he's away from the underworld, the greater the threat that the worst of humanity could escape.",
+            "vote_average": 8.5,
+            "adult": false
+      }
+
+]

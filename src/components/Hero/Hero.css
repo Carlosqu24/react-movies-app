@@ -1,0 +1,44 @@
+.hero {
+      width: 100%;
+      height: 100vh;
+      padding: 5rem;
+
+      background-image: url(https://ca-times.brightspotcdn.com/dims4/default/a4c7991/2147483647/strip/true/crop/2506x1670+747+0/resize/2000x1333!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fbf%2F52%2F126190d94252ac33cdfb09597113%2Fla-ca-black-widow-movie-033.JPG);
+      background-size: cover;
+      color: #000;
+
+      display: flex;
+      align-items: center;
+      justify-content: center;
+}
+
+
+
+@media screen and (max-width: 1024px) {
+      .hero {
+            height: 500px;
+            padding: 1rem;
+
+            background-size: cover;
+            background-repeat: no-repeat;
+
+            justify-content: center;
+      }
+
+      .hero-card {
+            width: 100%;
+            text-align: center;
+      }
+}
+
+@media screen and (max-width: 768px) {
+      .hero {
+            height: 400px;
+      }
+}
+
+@media screen and (max-width: 540px) {
+      .hero {
+            height: 250px;
+      }
+}

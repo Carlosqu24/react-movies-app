@@ -1,0 +1,27 @@
+.movies-list {
+      width: 80%;
+      padding: 0rem;
+      margin: auto;
+
+      background: rgba(34, 34, 34, 0);
+
+      display: flex;
+      flex-direction: column;
+      align-items: flex-start;
+      justify-content: center;
+  }
+  
+  .movies-list__title {
+      color: rgb(0, 0, 0);
+  }
+  
+  .movies-list-flex {
+      width: 100%;
+      margin: auto;
+  
+
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr));
+      gap: 15px;
+  }
+ 
